@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "version":  "1.0.0",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "A4BBBC997D2991169E3AA658719E9C3EEAFFF98F7DF46F70B2484B8BA40604C5",
-    "size":  77311,
-    "publishedAt":  "2026-03-27T05:47:19.3797245+00:00",
-    "notes":  "Fix AEAssist ACR path detection to avoid game install directory.",
+    "sha256":  "3924B2499AFC41E165C36B4D00859FCD4D9C4D4933E82EA2CBA930D85682A5EC",
+    "size":  77706,
+    "publishedAt":  "2026-03-27T05:56:36.2492355+00:00",
+    "notes":  "Prefer loaded AEAssist.dll to resolve AEAssist ACR path.",
     "entryFolder":  "GaoShouPVP"
 }
