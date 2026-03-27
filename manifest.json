@@ -1,0 +1,10 @@
+﻿{
+    "schemaVersion":  1,
+    "version":  "1.0.0",
+    "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
+    "sha256":  "1B1EDAE9CE1E1CC7789F18CB8E1AA2F8046250642D0AA73177F7E082756D413C",
+    "size":  74626,
+    "publishedAt":  "2026-03-27T04:53:22.4024586+00:00",
+    "notes":  "Initial remote package for GaoShouPVP.",
+    "entryFolder":  "GaoShouPVP"
+}
