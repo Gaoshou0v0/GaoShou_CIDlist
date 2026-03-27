@@ -1,10 +1,10 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.2",
+    "version":  "1.0.0",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "03B3B1D84E65E68E817BFABAE1541B02A6F8CDB8F3C366480D172B2A8721AC7E",
-    "size":  73146,
-    "publishedAt":  "2026-03-27T06:52:41.6620252+00:00",
-    "notes":  "Obfuscated 1.0.2 build with expanded secret diagnostics.",
+    "sha256":  "2452D103782809084F165AC07A1261B0C7347014BCCA6690C635A9CBD96DCE76",
+    "size":  73128,
+    "publishedAt":  "2026-03-27T07:08:20.6989102+00:00",
+    "notes":  "Obfuscated 1.0.0 build published on request.",
     "entryFolder":  "GaoShouPVP"
 }
