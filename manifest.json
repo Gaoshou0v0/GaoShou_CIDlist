@@ -1,10 +1,10 @@
 ﻿{
     "schemaVersion":  1,
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "1B1EDAE9CE1E1CC7789F18CB8E1AA2F8046250642D0AA73177F7E082756D413C",
-    "size":  74626,
-    "publishedAt":  "2026-03-27T04:53:22.4024586+00:00",
-    "notes":  "Initial remote package for GaoShouPVP.",
+    "sha256":  "A19F331C22EE289AE1FC910EEAEF4D3C79F55283E872F57381849168760DD96B",
+    "size":  75102,
+    "publishedAt":  "2026-03-27T05:18:35.1306675+00:00",
+    "notes":  "UI install-path detection fix and hidden remote config path.",
     "entryFolder":  "GaoShouPVP"
 }
