@@ -1,10 +1,10 @@
 {
     "schemaVersion":  1,
-    "version":  "1.0.1",
+    "version":  "1.0.0",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "0B2FEC9F3F7B8C3E06DA9613525A3D133A81B08C73B606F55D6D768E29BE90AF",
-    "size":  75167,
-    "publishedAt":  "2026-03-27T08:54:35.6488730+00:00",
-    "notes":  "1.0.1 fixes mystery-page whitelist refresh button visibility.",
+    "sha256":  "05BA1755313383520013406C6AD81FCB6E6A92E3C769985FD02771A7CD99DB7D",
+    "size":  75164,
+    "publishedAt":  "2026-03-27T09:05:07.3424225+00:00",
+    "notes":  "1.0.0 rebuild with mystery-page whitelist refresh button visibility fix.",
     "entryFolder":  "GaoShouPVP"
 }
