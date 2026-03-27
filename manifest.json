@@ -2,9 +2,9 @@
     "schemaVersion":  1,
     "version":  "1.0.0",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "2D40828E1672D5538502AEDC3594863F3044A99987B60AB0B30F75E0F932FEAC",
-    "size":  78159,
-    "publishedAt":  "2026-03-27T06:01:51.9806994+00:00",
-    "notes":  "Hide diagnostic UI by default and add persistent mystery unlock.",
+    "sha256":  "C113364917DA415FFDCB1D6DC5FCCC1A3203578263FC0F68FAEF5B1519BCCAA5",
+    "size":  74024,
+    "publishedAt":  "2026-03-27T06:11:38.4269399+00:00",
+    "notes":  "Obfuscated build with hidden diagnostic UI and CID uploader support.",
     "entryFolder":  "GaoShouPVP"
 }
