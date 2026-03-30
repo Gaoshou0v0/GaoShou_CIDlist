@@ -2,9 +2,9 @@
     "schemaVersion":  2,
     "version":  "1.0.2",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "990CF2D937B0E53592F865F534F159E0118040BB4BA20DD78D1FD054B06C5B20",
-    "size":  86638,
-    "publishedAt":  "2026-03-30T07:04:43.5671943+00:00",
+    "sha256":  "5C2910486BA97CA1C6FFBB15138DF1EEB146464D1904A20AEC8A9E46BABF88D9",
+    "size":  86704,
+    "publishedAt":  "2026-03-30T07:08:18.1308607+00:00",
     "notes":  "重构骑士 PvP 模式逻辑，移除黑骑支持，并加固自动更新提示链路。",
     "entryFolder":  "GaoShouPVP",
     "releaseNotes":  {
