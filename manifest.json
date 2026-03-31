@@ -1,32 +1,31 @@
 {
     "schemaVersion":  2,
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "B78998706EDFD2E1F7EC84131D7288BFF0072A36D7583010CE543C4D895EF74A",
-    "size":  94578,
-    "publishedAt":  "2026-03-31T04:08:37.0657423+00:00",
-    "notes":  "修正召唤不死鸟召唤热键执行链，并整理 GaoShouPVP 全项目代码格式。",
+    "sha256":  "D1DA72A00F892E9C70BF940F59238AE972EA91C4DF7632DC6766C51906820466",
+    "size":  95282,
+    "publishedAt":  "2026-03-31T07:58:47.2825967+00:00",
+    "notes":  "QT 改为在单局 duty 内保持，只有退出当前 PvP 任务后才恢复到进本前状态。",
     "entryFolder":  "GaoShouPVP",
     "releaseNotes":  {
-                         "version":  "1.0.6",
-                         "title":  "1.0.6 热键修正与代码排版整理",
-                         "summary":  "修正召唤不死鸟召唤热键执行链，并整理 GaoShouPVP 全项目代码格式。",
-                         "publishedAt":  "2026-03-31T12:04:00+08:00",
+                         "version":  "1.0.7",
+                         "title":  "1.0.7 QT 任务会话保持",
+                         "summary":  "QT 改为在单局 duty 内保持，只有退出当前 PvP 任务后才恢复到进本前状态。",
+                         "publishedAt":  "2026-03-31T15:57:10+08:00",
                          "highlights":  [
-                                            "修复召唤不死鸟召唤热键错误沿用龙神召唤执行技能的问题",
-                                            "骑士主 UI 新增卫护热键距离滑块，默认 8 米，可调 2 到 10 米",
-                                            "GaoShouPVP 全项目已统一执行 dotnet format，整理空行、换行和分行风格"
+                                            "所有 PvP 职业的 QT 现在会在单局 duty 内保持，不再因 OnResetBattle 立即还原",
+                                            "死亡、回合重置或战斗重置后，局内手动切换过的 QT 会继续保持",
+                                            "真正离开当前 PvP 任务后，QT 才会统一恢复到进入 duty 前的状态"
                                         ],
                          "added":  [
-                                       "骑士主 UI 新增卫护热键距离配置项"
+                                       "新增公共 PvpQt任务会话服务，用于记录任务前 QT 快照并在退本后恢复"
                                    ],
                          "changed":  [
-                                         "骑士卫护热键的友方搜索距离改为读取主 UI 设置，不再固定 9.5 米",
-                                         "当前本地开发版本基线更新为 1.0.6",
-                                         "全项目 C# 代码排版统一到 dotnet format 默认规则"
+                                         "战士、机工、枪刃、诗人、召唤、龙骑、黑魔、骑士的 QT 生命周期统一改为按 duty 会话保留",
+                                         "当前本地开发版本基线更新为 1.0.7"
                                      ],
                          "fixed":  [
-                                       "修复召唤不死鸟召唤热键图标正确但执行时仍调用龙神召唤的问题"
+                                       "修复 QT 在单局 PvP 内因为 OnResetBattle 被提前还原，导致局内设置无法持续保留的问题"
                                    ],
                          "knownIssues":  [
 
