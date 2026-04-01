@@ -2,9 +2,9 @@
     "schemaVersion":  2,
     "version":  "1.0.8",
     "packageUrl":  "https://raw.githubusercontent.com/Gaoshou0v0/GaoShou_CIDlist/main/GaoShouPVP.zip",
-    "sha256":  "9799C20CD54B40BCA6D2C137219CF5197860477DE07DF913F6CA90F1EAFA6304",
-    "size":  102902,
-    "publishedAt":  "2026-04-01T05:28:20.8077294+00:00",
+    "sha256":  "C16C5306F275B459E1440ED4F96C246E248E5D8A34CCE12F77397C5AA5B9654A",
+    "size":  102901,
+    "publishedAt":  "2026-04-01T05:38:13.3817615+00:00",
     "notes":  "K头模式改为先锁定低血目标，再按更低的出手血线释放高价值终结技，避免大技能一亮就交。",
     "entryFolder":  "GaoShouPVP",
     "releaseNotes":  {
